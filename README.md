@@ -17,3 +17,5 @@ The input parameter for the discreete event simulation are: **lambda1, lambda2, 
 **T**: is the termination time of the simulation.
 
 The above input paremeters can be changed to produce different outcomes. The goal of the project was to determined how different matching algorithms affect the performance of the system (i.e: the performance measures). 
+
+All the details and explaination about this project can be found in the dissertation file (link: https://github.com/CongThNguyen/Master-degree-thesis/blob/main/PGT_ORMSc_LaTeX%20(10).pdf)
