@@ -2,7 +2,7 @@
 
 This code was used in my dissertation project to simulate and generate the data.
 
-The input parameter for the discreete event simulation are: lambda1, lambda2, aban1, aban2, time_coef and T. 
+The input parameter for the discreete event simulation are: **lambda1, lambda2, aban1, aban2, time_coef and T**. 
 
 **lambda1**: is the rate of arrival of the taxis (I have chosen this to be exponentially distributed due to its memoryless property)
 
